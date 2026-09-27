@@ -1,0 +1,11 @@
+Declaración de uso de Inteligencia Artificial
+
+Proyecto: Sistema de gestión bancaria - Base de Datos II
+Herramienta utilizada: Claude
+Nombre: Pablo Serón
+
+Utilice la inteligencia artificial Claude como apoyo durante el desarrollo de ambas partes del proyecto (1-2),
+principalmente para resolver dudas conceptuales,
+depurar errores, generar "datos_prueba" (gran parte de los registros de prueba),
+ademas de indicarme cuales son las herramientas que podia utilizar durante la creacion de codigo (para no confundirme con la materia que estamos viendo actualmente),
+la lógica de sobregiro (no entendia muy bien este) en CuentaCorriente.girar_monto, incluyendo el método auxiliar _modificar_saldo en la clase base para permitir que el saldo baje de cero de forma controlada.
